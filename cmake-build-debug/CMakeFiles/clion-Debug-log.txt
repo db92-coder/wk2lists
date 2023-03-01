@@ -1,4 +1,10 @@
-C:\Users\danie\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/danie/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\danie\CLionProjects\wk2lists -B C:\Users\danie\CLionProjects\wk2lists\cmake-build-debug
+"/Users/danielbroadby/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /Users/danielbroadby/CLionProjects/wk2lists -B /Users/danielbroadby/CLionProjects/wk2lists/cmake-build-debug
+-- The C compiler identification is AppleClang 14.0.0.14000029
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/danie/CLionProjects/wk2lists/cmake-build-debug
+-- Build files have been written to: /Users/danielbroadby/CLionProjects/wk2lists/cmake-build-debug
