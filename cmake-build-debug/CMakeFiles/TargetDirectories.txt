@@ -1,0 +1,3 @@
+C:/Users/danie/CLionProjects/wk2lists/cmake-build-debug/CMakeFiles/wk2lists.dir
+C:/Users/danie/CLionProjects/wk2lists/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danie/CLionProjects/wk2lists/cmake-build-debug/CMakeFiles/rebuild_cache.dir

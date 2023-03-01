@@ -1,0 +1,5 @@
+# ninja log v5
+1	97	6993506296529661	build.ninja	351acb10e793ea2d
+1	464	6993506301611181	CMakeFiles/wk2lists.dir/wk2main.c.obj	95745a8bc61021fc
+4	464	6993506301611181	CMakeFiles/wk2lists.dir/list.c.obj	b1a7279587de6c85
+465	749	6993506304308154	wk2lists.exe	79ad09305ecffe57
