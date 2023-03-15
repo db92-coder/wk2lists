@@ -3,4 +3,4 @@ project(wk2lists C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(wk2lists wk2main.c list.h list.c)
+add_executable(wk2lists wk2main.c list.h list.c bst.c bst.h)
